@@ -1,20 +1,18 @@
-# define the function for addition
+
 def add(x, y):
     return x + y
 
-# define the function for subtraction
+
 def subtract(x, y):
     return x - y
 
-# define the function for multiplication
 def multiply(x, y):
     return x * y
 
-# define the function for division
+
 def divide(x, y):
     return x / y
 
-# take user input for operation choice and operands
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
