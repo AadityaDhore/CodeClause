@@ -17,3 +17,4 @@ def typing_speed_test():
     print("Your typing speed is", round(speed, 2), "words per minute.")
 
 typing_speed_test()
+print("This is our final output")
