@@ -1,7 +1,7 @@
 import pygame
 pygame.init()
 window = pygame.display.set_mode((300, 300))
-pygame.mixer.music.load('Insert_music_file_here')
+pygame.mixer.music.load('faded.mp3')
 pygame.mixer.music.play()
 running = True
 while running:
